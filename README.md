@@ -19,8 +19,8 @@ mc -s /Users/xxx/MyData/data/github/nodejs/migrate-comments/test/lulee007blog.js
 ```
 
 ## 参考
-http://javascriptplayground.com/blog/2015/03/node-command-line-tool/
-https://developer.atlassian.com/blog/2015/11/scripting-with-node/
-http://blog.fens.me/nodejs-commander/
-https://github.com/tj/commander.js
-http://tool.chinaz.com/regex
+* http://javascriptplayground.com/blog/2015/03/node-command-line-tool/
+* https://developer.atlassian.com/blog/2015/11/scripting-with-node/
+* http://blog.fens.me/nodejs-commander/
+* https://github.com/tj/commander.js
+* http://tool.chinaz.com/regex
