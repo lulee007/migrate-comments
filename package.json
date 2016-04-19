@@ -1,0 +1,20 @@
+{
+  "name": "migrate-comments",
+  "version": "1.0.0",
+  "description": "迁移不同站点下的多说评论",
+  "scripts": {
+    "test": "tmc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lulee007/migrate-comments.git"
+  },
+  "author": "lulee007",
+  "license": "Apache-2.0",
+  "bin": {
+    "mc": "index.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
